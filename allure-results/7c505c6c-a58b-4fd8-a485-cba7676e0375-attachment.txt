@@ -1,1 +1,0 @@
-{"success":false,"errMessage":"Failed to fetch logs from external API: {\"error_code\":\"404\",\"error\":\"USER_NOT_FOUND\",\"message\":\"No logs found for Customer ID: CUST99999\"}"}
