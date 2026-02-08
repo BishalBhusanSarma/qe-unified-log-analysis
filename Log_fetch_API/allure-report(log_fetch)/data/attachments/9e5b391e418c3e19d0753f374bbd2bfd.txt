@@ -1,0 +1,1 @@
+Fetch logs using invalid Customer ID

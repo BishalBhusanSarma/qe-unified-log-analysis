@@ -1,0 +1,1 @@
+https://demo-customer-journey-service.onrender.com/api/v1/get-journey-list?customerId=cust00002

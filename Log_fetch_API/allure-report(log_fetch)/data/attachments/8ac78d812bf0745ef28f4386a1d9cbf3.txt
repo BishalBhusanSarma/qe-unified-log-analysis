@@ -1,0 +1,9 @@
+
+        Total Requests Sent: 500
+        Parallel Workers: 50
+        Successful Responses: 500
+        Failed Responses (5xx): 0
+        Average Response Time: 2.777 sec
+        Max Response Time: 7.618 sec
+        Min Response Time: 1.088 sec
+        
