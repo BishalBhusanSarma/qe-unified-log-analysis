@@ -1,0 +1,1 @@
+Graceful handling, error OR empty stages
