@@ -1,1 +1,0 @@
-{"success":true,"responseData":{"message":"Logs successfully ingested for customer cust00002","customer_id":"cust00002","journey_id":5501,"stages_count":5}}
