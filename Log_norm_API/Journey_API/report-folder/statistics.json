@@ -1,0 +1,34 @@
+{
+  "Journey_list_request" : {
+    "transaction" : "Journey_list_request",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 612.8530000000002,
+    "medianResTime" : 588.0,
+    "minResTime" : 524.0,
+    "maxResTime" : 1386.0,
+    "pct1ResTime" : 671.8,
+    "pct2ResTime" : 764.0,
+    "pct3ResTime" : 1272.7900000000002,
+    "throughput" : 16.08829254951172,
+    "receivedKBytesPerSec" : 11.924818403397849,
+    "sentKBytesPerSec" : 3.8335384590633397
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 612.8530000000002,
+    "medianResTime" : 588.0,
+    "minResTime" : 524.0,
+    "maxResTime" : 1386.0,
+    "pct1ResTime" : 671.8,
+    "pct2ResTime" : 764.0,
+    "pct3ResTime" : 1272.7900000000002,
+    "throughput" : 16.08829254951172,
+    "receivedKBytesPerSec" : 11.924818403397849,
+    "sentKBytesPerSec" : 3.8335384590633397
+  }
+}
