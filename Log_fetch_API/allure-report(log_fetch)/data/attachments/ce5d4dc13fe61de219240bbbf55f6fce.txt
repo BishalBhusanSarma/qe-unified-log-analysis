@@ -1,0 +1,1 @@
+Validate failure records contain error details

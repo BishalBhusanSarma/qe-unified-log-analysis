@@ -1,0 +1,1 @@
+{"success":true,"responseData":{"pageCount":1,"stages":[{"transactionId":"TXN-6076","event":"WELCOME_KIT_DISPATCHED","status":"FAILED","retryCount":0,"timestamp":"2026-02-18T10:08:00Z","source":"logistics-service","reason":"COURIER_FAILED","errorCode":"ERR_WK_503"}]}}
