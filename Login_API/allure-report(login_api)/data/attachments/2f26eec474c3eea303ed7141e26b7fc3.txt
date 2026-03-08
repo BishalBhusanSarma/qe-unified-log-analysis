@@ -1,0 +1,1 @@
+Token format validated (JWT structure)
